@@ -1,0 +1,9 @@
+
+EDA.ipynb:
+
+LIBRARIES: pandas, numpy, seaborn, matplotlib.pyplot - figure, scipy.stats - norm,t, datetime
+
+
+weather.ipynb:
+
+LIBRARIES: pandas, fuzzywuzzy, meteostat, matplotlib, datetime
